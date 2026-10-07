@@ -115,5 +115,6 @@ Utility
 
 [ezgif](https://ezgif.com/)<br />
 [Remove Background](https://www.remove.bg/)<br />
+[Practical Web Tools](https://practicalwebtools.com/) — 1,400+ free browser tools (PDF editors, converters, calculators), all client-side with no uploads<br />
 [Video Converter](https://video-converter.com/)<br />
 [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/)<br />
